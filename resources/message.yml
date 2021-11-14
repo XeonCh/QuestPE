@@ -1,0 +1,17 @@
+#©Lordz
+#Use "&" for coloring
+#use "{line}" for next line
+
+first-joinmsg: "&aYou have a quest check in /quest to start the quest"
+
+succes-quest1: "&aYou have completed quest 1, quest 2 is open"
+succes-quest2: "&aYou have completed quest 2, quest 3 is open"
+succes-quest3: "&aYou have completed quest 3, quest 4 is open"
+succes-quest4: "&aYou have completed quest 4, quest 5 is open"
+succes-quest5: "&aYou have completed all quest"
+
+#Title Next Quest
+title-newquest: "&aNew quest open"
+
+#message to the player after doing the quest
+done-quest: "&cQuest not open"
