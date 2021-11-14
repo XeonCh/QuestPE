@@ -1,0 +1,7 @@
+name: QuestPE
+api: [3.0.0, 4.0.0]
+mcpe-protocol: [465, 471]
+author: Lordzz/XeonCh
+main: quest\Main
+version: 1.0.0
+depend: [EconomyAPI, FormAPI, PurePerms]
