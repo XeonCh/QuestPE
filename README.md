@@ -93,3 +93,8 @@ done-quest: "&cQuest not open"
 # Download
 
 You can download it [here](https://poggit.pmmp.io/ci/XeonCh/QuestPE/QuestPE)
+
+# Reviews
+
+this is a video about the contents of this plugin
+[here](https://youtu.be/Uxs6sewE-No)
