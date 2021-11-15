@@ -1,6 +1,6 @@
-# QuestPE
-a pocketmine plugin that is useful # QuestPE
-a pocketmine plugin tha is useful for doing quests to earn money, this plugin comes with an easy confi doing quests to earn money, this plugin comes with an easy config
+# Lordz/Xeon Ch
+hi
+
 # QuestPE ![QuestPE](https://github.com/XeonCh/QuestPE/blob/main/img/icon.png)
 
 QuestPE is a Pocketmine-MP plugin that is useful for players to do quests with custom events, and earn money
