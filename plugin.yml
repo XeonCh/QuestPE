@@ -4,4 +4,4 @@ mcpe-protocol: [465, 471]
 author: Lordzz/XeonCh
 main: lordz\questPe\Main
 version: 1.0.0
-depend: [EconomyAPI, FormAPI, PurePerms]
+depend: [EconomyAPI, PurePerms]
